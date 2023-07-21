@@ -1,0 +1,114 @@
+
+body{
+    margin-left:5% ;
+    margin-right:5% ;
+    font-family:'serif' ,'Markazi Text';
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    }
+    
+    
+    h1{
+    font-style: italic;
+    width:block;
+    font-size: 3rem;
+    }
+    
+    h2{
+    font-style: italic;
+    width:block;
+    font-size: 2rem;
+    }
+    
+    
+    .detail{
+    max-inline-size: 90%;
+    font-size: 1.5rem;
+    }
+    
+    span{
+    font-style: italic;
+    font-size: 2rem;
+    }
+    .off20img img {
+      width: 100%;
+     height: 450px;
+    }
+    
+     .off20img p {
+        color:coral;
+    text-align:center;
+      font-weight: bold;
+      font-size: 30px;
+      padding-bottom:20px;
+    }
+    
+    .card{
+     border-radius: 10px;
+    background-color: beige;
+    }
+    .card img{
+     border-radius: 10px;
+     height:256px;
+     width:454px;
+    }
+    .card .card-title{
+    text-align:center;
+    }
+    
+    header > img{
+    display: block;
+    margin-left:auto;
+    margin-reight: auto;
+    }
+    
+    nav ul {
+    
+    text-align:center;
+    background-color:beige;
+    border-radius:10px;
+    
+    }
+    
+    nav li{
+    font-size: 1.5rem;
+    display:inline-block;
+    }
+    
+    .nav-item a{
+    color:black;
+    }
+    
+    section{
+    display:flex;
+    }
+    
+    article{
+    flex:1;
+    }
+    
+    
+    
+    .prices{
+    text-align:center;
+    padding-top:140px;
+    }
+    
+    .prices td{
+    font-size: 1.2rem;
+    }
+    
+    
+    
+    
+    #footerimg{
+    width:50px;
+    }
+    
+    
+    
+/* CSS
+https://coursera-assessments.s3.amazonaws.com/assessments/1687627984767/9e48b657-f7a0-4998-a642-050f4e039b5a/styles.css
+
+INDEX
+https://coursera-assessments.s3.amazonaws.com/assessments/1687628089928/10653c41-fec7-4db1-bf4f-3dfa8c381385/index.html */
